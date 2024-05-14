@@ -1,3 +1,3 @@
-// deletes documents with specific option in collection
-db.school.deleteOne({name: "Hobeltorn school"})
+//deletes document specified by the name
+db.school.deleteOne({name: "Holberton school"})
 
