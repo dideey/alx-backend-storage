@@ -1,0 +1,3 @@
+//lists all documents starting with a specific option
+db.school.find({name: "Holberton"})
+
